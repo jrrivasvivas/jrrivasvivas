@@ -7,5 +7,5 @@
 # De Interés General
 ### Libros de acceso público
 
-- **[Scientific Visualization: Python & Matplotlib](https://github.com/rougier/scientific-visualization-book)**, an open access book on scientific visualization.  <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/scientific-visualization-book?style=social"> 
+- **[Scientific Visualization: Python & Matplotlib](https://github.com/rougier/scientific-visualization-book)**
 
